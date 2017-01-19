@@ -99,7 +99,7 @@ public struct MysqlTypes {
    public static let MYSQL_TYPE_MEDIUM_BLOB : UInt8 = 0xfa
    public static let MYSQL_TYPE_LONG_BLOB  : UInt8  = 0xfb
    public static let MYSQL_TYPE_BLOB       : UInt8  = 0xfc // Blob
-   public static let MYSQL_TYPE_VAR_STRING : UInt8  = 0xfd // []byte
+   public static let MYSQL_TYPE_VAR_STRING : UInt8  = 0xfc // []byte
    public static let MYSQL_TYPE_STRING     : UInt8  = 0xfe // string
    public static let MYSQL_TYPE_GEOMETRY   : UInt8  = 0xff
     
